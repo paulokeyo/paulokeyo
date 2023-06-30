@@ -1,15 +1,13 @@
 <h1>Hi, I'm Paul! <br/><a href="https://github.com/paulokeyo">Cybersecurity Analyst</a>, <a href="https://github.com/paulokeyo/">Programmer</a>, <a href="https://www.medium.com/@okeyopaul">Content Creator</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+- [Analyzing failed RDP Honeypot Virtual Machine and Analyzing the logs using SIEM](https://medium.com/@okeyopaul/creating-a-honeypot-windows-10-virtual-machine-and-analyzing-the-logs-using-microsoft-sentinel-985b57979c41)
+- [Step-by Step Creating of Active Directory and Adding Users](https://medium.com/@okeyopaul/step-by-step-creating-of-active-directory-and-adding-users-adf18611f0da)
 
+<h2>📺 Medium articles and tutorials</h2>
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Setting up a Honeypot Virtual Machine and Analyzing the logs using SIEM](https://medium.com/@okeyopaul/creating-a-honeypot-windows-10-virtual-machine-and-analyzing-the-logs-using-microsoft-sentinel-985b57979c41)
+- [Step-by Step Creating of Active Directory and Adding Users](https://medium.com/@okeyopaul/step-by-step-creating-of-active-directory-and-adding-users-adf18611f0da)
 
 <h2> 🤳 Connect with me:</h2>
 
