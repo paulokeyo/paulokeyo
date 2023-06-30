@@ -1,8 +1,9 @@
 <h1>Hi, I'm Paul! <br/><a href="https://github.com/paulokeyo">Cybersecurity Analyst</a>, <a href="https://github.com/paulokeyo/">Programmer</a>, <a href="https://www.medium.com/@okeyopaul">Content Creator</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- [Analyzing failed RDP Honeypot Virtual Machine and Analyzing the logs using SIEM](https://medium.com/@okeyopaul/creating-a-honeypot-windows-10-virtual-machine-and-analyzing-the-logs-using-microsoft-sentinel-985b57979c41)
-- [Step-by Step Creating of Active Directory and Adding Users](https://medium.com/@okeyopaul/step-by-step-creating-of-active-directory-and-adding-users-adf18611f0da)
+
+- [Analyzing failed RDP Attacks on Honeypot VM and Analyzing the logs using SIEM](https://medium.com/@okeyopaul/creating-a-honeypot-windows-10-virtual-machine-and-analyzing-the-logs-using-microsoft-sentinel-985b57979c41)
+- [Creating of Active Directory, adding users, DHCP server, routing client PC with NAT ](https://medium.com/@okeyopaul/step-by-step-creating-of-active-directory-and-adding-users-adf18611f0da)
 
 <h2>📺 Medium articles and tutorials</h2>
 
@@ -13,7 +14,7 @@
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 [twitter]: https://twitter.com/ampaul_
 [linkedin]: https://linkedin.com/in/zzzzzz
