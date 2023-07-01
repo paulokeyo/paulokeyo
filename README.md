@@ -7,7 +7,7 @@
 
 <h2>📺 Certifications</h2>
 
-- [Google Cybersecurity Professional Certificate](https://google.com)
+- [Google Cybersecurity Professional Certificate](https://coursera.org/share/e3bce7cf10148adb65302e1c9ef091ef)
 - COMPTIA Security+ (In Progress: Projected October 2023)
 
 <h2>📺 Medium articles and tutorials</h2>
