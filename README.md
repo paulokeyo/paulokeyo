@@ -13,7 +13,7 @@
 <h2>📺 Medium articles and tutorials</h2>
 
 - [Setting up a Honeypot Virtual Machine and Analyzing the logs using SIEM](https://medium.com/@okeyopaul/creating-a-honeypot-windows-10-virtual-machine-and-analyzing-the-logs-using-microsoft-sentinel-985b57979c41)
-- [Step-by Step Creating of Active Directory and Adding Users](https://medium.com/@okeyopaul/step-by-step-creating-of-active-directory-and-adding-users-adf18611f0da)
+- [Creating Active Directory bulk user creation using script](https://medium.com/@okeyopaul/step-by-step-creating-of-active-directory-and-adding-users-adf18611f0da)
 
 <h2> 🤳 Connect with me:</h2>
 
