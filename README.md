@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects and Labs:</h2>
 
 - [Analyzing failed RDP Attacks on Honeypot VM and Analyzing the logs using SIEM](https://medium.com/@okeyopaul/creating-a-honeypot-windows-10-virtual-machine-and-analyzing-the-logs-using-microsoft-sentinel-985b57979c41)
-- [Creating of Active Directory, adding users, DHCP server, routing client PC with NAT ](https://github.com/paulokeyo/AD-DS)
+- [Creating of Active Directory, adding users using script, DHCP server, routing client PC with NAT ](https://github.com/paulokeyo/AD-DS)
 
 <h2>🎓 Certifications</h2>
 
@@ -13,7 +13,7 @@
 <h2>📺 Medium articles and tutorials</h2>
 
 - [Setting up a Honeypot Virtual Machine and Analyzing the logs using SIEM](https://medium.com/@okeyopaul/creating-a-honeypot-windows-10-virtual-machine-and-analyzing-the-logs-using-microsoft-sentinel-985b57979c41)
-- [Creating Active Directory bulk user creation using script](https://medium.com/@okeyopaul/step-by-step-creating-of-active-directory-and-adding-users-adf18611f0da)
+- [Step-by Step Creating of Active Directory and Adding Users](https://medium.com/@okeyopaul/step-by-step-creating-of-active-directory-and-adding-users-adf18611f0da)
 
 <h2> 🤳 Connect with me:</h2>
 
