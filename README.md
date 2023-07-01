@@ -1,11 +1,11 @@
 <h1>Hi, I'm Paul! <br/><a href="https://github.com/paulokeyo">Cybersecurity Analyst</a>, <a href="https://github.com/paulokeyo/">Programmer</a>, <a href="https://www.medium.com/@okeyopaul">Content Creator</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects and Labs:</h2>
 
 - [Analyzing failed RDP Attacks on Honeypot VM and Analyzing the logs using SIEM](https://medium.com/@okeyopaul/creating-a-honeypot-windows-10-virtual-machine-and-analyzing-the-logs-using-microsoft-sentinel-985b57979c41)
-- [Creating of Active Directory, adding users, DHCP server, routing client PC with NAT ](https://medium.com/@okeyopaul/step-by-step-creating-of-active-directory-and-adding-users-adf18611f0da)
+- [Creating of Active Directory, adding users, DHCP server, routing client PC with NAT ](https://github.com/paulokeyo/AD-DS)
 
-<h2>📺 Certifications</h2>
+<h2>🎓 Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/e3bce7cf10148adb65302e1c9ef091ef)
 - COMPTIA Security+ (In Progress: Projected October 2023)
