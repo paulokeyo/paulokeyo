@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects and Labs:</h2>
 
-- [Analyzing failed RDP Attacks on Honeypot VM and Analyzing the logs using SIEM](https://medium.com/@okeyopaul/creating-a-honeypot-windows-10-virtual-machine-and-analyzing-the-logs-using-microsoft-sentinel-985b57979c41)
+- [Azure Vulnerability Management using OpenVAS]
+- [Alerting failed Brute Force Attacks on Honeypot VM and Analyzing the logs using SIEM](https://github.com/paulokeyo/failedRDPAttacks)
 - [Creating of Active Directory, adding users using script, DHCP server, routing client PC with NAT ](https://github.com/paulokeyo/AD-DS)
 
 <h2>🎓 Certifications</h2>
