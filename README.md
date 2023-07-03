@@ -2,14 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects and Labs:</h2>
 
-- [Azure Vulnerability Management using OpenVAS]
+- [Azure Vulnerability Management using OpenVAS](https://github.com/paulokeyo/openVAS)
 - [Alerting failed Brute Force Attacks on Honeypot VM and Analyzing the logs using SIEM](https://github.com/paulokeyo/failedRDPAttacks)
 - [Creating of Active Directory, adding users using script, DHCP server, routing client PC with NAT ](https://github.com/paulokeyo/AD-DS)
 
 <h2>🎓 Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/e3bce7cf10148adb65302e1c9ef091ef)
-- COMPTIA Security+ (In Progress: Projected October 2023)
+- CompTIA Security+ (In Progress: Projected October 2023)
 
 <h2>📺 Medium articles and tutorials</h2>
 
