@@ -11,7 +11,7 @@
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/e3bce7cf10148adb65302e1c9ef091ef)
 - CompTIA Security+ (In Progress: Projected October 2023)
 
-<h2>📺 Medium articles and tutorials</h2>
+<h2>📺 Articles and Tutorials</h2>
 
 - [Setting up a Honeypot Virtual Machine and Analyzing the logs using SIEM](https://medium.com/@okeyopaul/creating-a-honeypot-windows-10-virtual-machine-and-analyzing-the-logs-using-microsoft-sentinel-985b57979c41)
 - [Step-by Step Creating of Active Directory and Adding Users](https://medium.com/@okeyopaul/step-by-step-creating-of-active-directory-and-adding-users-adf18611f0da)
