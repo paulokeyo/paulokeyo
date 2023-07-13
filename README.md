@@ -6,6 +6,13 @@
 - [Azure Vulnerability Management using Nessus](https://github.com/paulokeyo/nessus)
 - [Alerting failed Brute Force Attacks on Honeypot VM and Analyzing the logs using SIEM](https://github.com/paulokeyo/failedRDPAttacks)
 
+<h2>👨‍💻 Programming Projects:</h2
+
+- [Stima Update: An Android App for reporting power outages and showing Heatmap Regions experiencing outages ](https://github.com/paulokeyo/StimaUpdate)
+- [COVID19 App: An Android App displaying data on corona virus infections in african countries](https://github.com/paulokeyo/Covid19_Africa_Tracker-App)
+- [COVID19 App: Implemented using flutter](https://github.com/paulokeyo/african_covid19_tracker)
+- [Daily Tasks app: An application for listing your tasks and crossing them our when done](https://github.com/paulokeyo/flutter_tasks_app) 
+
 <h2>🎓 Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/e3bce7cf10148adb65302e1c9ef091ef)
