@@ -12,7 +12,7 @@
 - [COVID19 App: An Android App displaying data on corona virus infections in african countries](https://github.com/paulokeyo/Covid19_Africa_Tracker-App)
 - [COVID19 App: Implemented using flutter](https://github.com/paulokeyo/african_covid19_tracker)
 - [Daily Tasks app: An application for listing your tasks and crossing them our when done](https://github.com/paulokeyo/flutter_tasks_app)
-- [Grocery store REST API](https://github.com/paulokeyo/online_grocery_store_api)
+- [Grocery store REST API (laravel)](https://github.com/paulokeyo/online_grocery_store_api)
 
 <h2>🎓 Certifications</h2>
 
