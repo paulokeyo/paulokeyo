@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects and Labs:</h2>
 
+- [Creating of Active Directory, adding users using script, DHCP server, routing client PC with NAT ](https://github.com/paulokeyo/AD-DS)
 - [Azure Vulnerability Management using Nessus](https://github.com/paulokeyo/nessus)
 - [Alerting failed Brute Force Attacks on Honeypot VM and Analyzing the logs using SIEM](https://github.com/paulokeyo/failedRDPAttacks)
-- [Creating of Active Directory, adding users using script, DHCP server, routing client PC with NAT ](https://github.com/paulokeyo/AD-DS)
 
 <h2>🎓 Certifications</h2>
 
