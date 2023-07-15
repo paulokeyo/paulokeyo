@@ -6,7 +6,7 @@
 - [Azure Vulnerability Management using Nessus](https://github.com/paulokeyo/nessus)
 - [Alerting failed Brute Force Attacks on Honeypot VM and Analyzing the logs using SIEM](https://github.com/paulokeyo/failedRDPAttacks)
 
-<h2>👨‍💻 Programming Projects:</h2>
+<h2>👨‍💻 Software Development Projects:</h2>
 
 - [Stima Update: An Android App for reporting power outages and showing Heatmap Regions experiencing outages ](https://github.com/paulokeyo/StimaUpdate)
 - [COVID19 App: An Android App displaying data on corona virus infections in african countries](https://github.com/paulokeyo/Covid19_Africa_Tracker-App)
